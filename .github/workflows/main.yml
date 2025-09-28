@@ -16,5 +16,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
         server: www.leopard.oracrondigital.com
-        username: ${{ secrets.ftp_username }}
-        password: ${{ secrets.ftp_password }}
+        username: leopard@oracrondigital.com
+        password: TestPass24..
