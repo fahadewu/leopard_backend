@@ -16,5 +16,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
         server: www.oracrondigital.com
-        username: leopard@oracrondigital.com
+        username: leopard@leopard.oracrondigital.com
         password: TestPass24..
